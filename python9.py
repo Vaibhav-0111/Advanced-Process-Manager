@@ -4,6 +4,7 @@ import psutil
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import csv
+#import all this library to run.
 
 data_history = []
 dark_mode = False  # Variable to track theme state
